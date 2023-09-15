@@ -8,7 +8,7 @@ function App() {
   return (
     <div className="App">
       <h1>Renderização de listas</h1>
-      <OutraLista Itens={meusItens} />
+      <OutraLista Itens={[]} />
 
 
     </div>
